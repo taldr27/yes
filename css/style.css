@@ -5,7 +5,7 @@ html {
 
 body
 {
-    background-color: gray;
+    background-color: #dcdcdc;
     text-align: center;
 }
 
@@ -23,5 +23,32 @@ h1
 #image
 {
     max-width: 100%;
-    height: auto;
+    display: block;
+    margin: auto;
+    margin: 0 auto;
+}
+
+a {
+    color: #477ca7;
+}
+a:visited {
+    color: #74638f;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 20px 0;
+}
+
+main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
 }
