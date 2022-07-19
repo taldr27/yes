@@ -1,0 +1,27 @@
+
+html {
+    font-size: 10px;
+}
+
+body
+{
+    background-color: gray;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+
+#img-div
+{
+    background: white;
+}
+
+#image
+{
+    max-width: 100%;
+    height: auto;
+}
